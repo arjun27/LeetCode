@@ -13,6 +13,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Same Tree
 * Validate Binary Search Tree
 * Binary Tree Inorder Traversal
+* Binary Tree Maximum Path Sum `*`
 
 ## Arrays, Lists
 * Remove Duplicates from Sorted Array
