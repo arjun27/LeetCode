@@ -20,6 +20,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Binary Tree Maximum Path Sum `*`
 * Balanced Binary Tree
 * Sum Root to Leaf Numbers
+* Unique Binary Search Trees
 
 ### Arrays, Lists
 * Remove Duplicates from Sorted Array
