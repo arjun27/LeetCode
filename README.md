@@ -14,6 +14,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Validate Binary Search Tree
 * Binary Tree Inorder Traversal
 * Binary Tree Maximum Path Sum `*`
+* Balanced Binary Tree
 
 ## Arrays, Lists
 * Remove Duplicates from Sorted Array
