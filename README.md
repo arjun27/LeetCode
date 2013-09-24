@@ -9,6 +9,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Minimum Depth of Binary Tree
 * Maximum Depth of Binary Tree
 * Convert Sorted Array to Binary Search Tree
+* Convert Sorted List to Binary Search Tree `*`
 * Symmetric Tree
 * Same Tree
 * Validate Binary Search Tree
