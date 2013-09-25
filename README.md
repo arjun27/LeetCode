@@ -21,6 +21,10 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Balanced Binary Tree
 * Sum Root to Leaf Numbers
 * Unique Binary Search Trees
+* Unique Binary Search Trees II `*`
+* Recover Binary Search Tree `*`
+* Construct Binary Tree from Inorder and Postorder Traversal
+* Construct Binary Tree from Preorder and Inorder Traversal
 
 ### Arrays, Lists
 * Remove Duplicates from Sorted Array
