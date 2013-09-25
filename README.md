@@ -26,4 +26,3 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Remove Duplicates from Sorted Array
 * Remove Duplicates from Sorted Array II
 * Jump Game
-* Jump Game II
