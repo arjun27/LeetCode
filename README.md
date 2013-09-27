@@ -29,4 +29,6 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 ### Arrays, Lists
 * Remove Duplicates from Sorted Array
 * Remove Duplicates from Sorted Array II
+* Remove Duplicates from Sorted List
+* Remove Duplicates from Sorted List II
 * Jump Game
