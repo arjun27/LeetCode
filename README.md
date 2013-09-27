@@ -31,4 +31,5 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Remove Duplicates from Sorted Array II
 * Remove Duplicates from Sorted List
 * Remove Duplicates from Sorted List II
+* Merge Sorted Array
 * Jump Game
