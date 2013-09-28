@@ -41,6 +41,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Jump Game
 * Jump Game `*`
 * Triangle
+* Pascal's Triangle
 * Search in Rotated Sorted Array
 
 ### Dynamic Programming
