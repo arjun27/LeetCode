@@ -35,5 +35,6 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Merge Two Sorted Lists
 * Rotate List
 * Remove Nth Node From End of List `*`
+* Partition List
 * Maximum Subarray
 * Jump Game
