@@ -39,3 +39,6 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Reverse Linked List II `*`
 * Maximum Subarray
 * Jump Game
+
+### Dynamic Programming
+* Unique Paths
