@@ -42,6 +42,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 
 ### Dynamic Programming
 * Unique Paths
+* Decode Ways `*`
 * Best Time to Buy and Sell Stock
 * Best Time to Buy and Sell Stock II
 * Best Time to Buy and Sell Stock III `*`
