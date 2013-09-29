@@ -44,6 +44,8 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Pascal's Triangle
 * Pascal's Triangle II
 * Search in Rotated Sorted Array
+* Subsets `*`
+* Two Sum `*`
 
 ### Dynamic Programming
 * Unique Paths
