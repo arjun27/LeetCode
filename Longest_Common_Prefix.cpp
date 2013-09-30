@@ -13,7 +13,7 @@ public:
     string recurse(vector<string> &strs, int index) {
         int n = strs.size();
         for (int i = 0; i < n; i++) {
-            if (strs[0].length() <= index) return "";
+            if (strs[i].length() <= index) return "";
         }
         char now = strs[0][index];
         string nowstr(1, now);
