@@ -48,6 +48,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Two Sum `*`
 
 ### Dynamic Programming
+* Climbing Stairs
 * Unique Paths
 * Unique Paths II
 * Decode Ways `*`
