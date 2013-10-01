@@ -62,6 +62,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 ### Recursion
 * Pow(x, n)
 * Gray Code
+* Roman to Integer
 
 ### Stacks
 * Valid Parentheses
