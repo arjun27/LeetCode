@@ -46,6 +46,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Search in Rotated Sorted Array
 * Subsets `*`
 * Two Sum `*`
+* Search Insert Position
 
 ### Dynamic Programming
 * Climbing Stairs
