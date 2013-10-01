@@ -12,13 +12,11 @@ public:
     }
     string recurse(vector<string> &strs, int index) {
         int n = strs.size();
-        for (int i = 0; i < n; i++) {
-            if (strs[i].length() <= index) return "";
-        }
         char now = strs[0][index];
         string nowstr(1, now);
         for (int i = 0; i < n; i++) {
-            if (now != strs[i][index]) return "";
+            if (strs[i].length() <= index) return "";
+            else if (now != strs[i][index]) return "";
         }
         string result = nowstr + recurse(strs, index+1);
         return result;
