@@ -25,6 +25,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Recover Binary Search Tree `*`
 * Construct Binary Tree from Inorder and Postorder Traversal
 * Construct Binary Tree from Preorder and Inorder Traversal
+* Populating Next Right Pointers in Each Node `*`
 
 ### Arrays, Lists
 * Remove Duplicates from Sorted Array
