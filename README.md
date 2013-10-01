@@ -47,6 +47,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Subsets `*`
 * Two Sum `*`
 * Search Insert Position
+* Remove Element
 
 ### Dynamic Programming
 * Climbing Stairs
