@@ -54,6 +54,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Permutations
 * Spiral Matrix `*`
 * Spiral Matrix II
+* Search a 2D Matrix
 
 ### Dynamic Programming
 * Climbing Stairs
