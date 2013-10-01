@@ -50,6 +50,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Search Insert Position
 * Remove Element
 * Swap Nodes in Pairs
+* Rotate Image `*`
 
 ### Dynamic Programming
 * Climbing Stairs
