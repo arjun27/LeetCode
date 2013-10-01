@@ -52,6 +52,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Swap Nodes in Pairs
 * Rotate Image `*`
 * Permutations
+* Spiral Matrix `*`
 
 ### Dynamic Programming
 * Climbing Stairs
@@ -61,6 +62,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Best Time to Buy and Sell Stock
 * Best Time to Buy and Sell Stock II
 * Best Time to Buy and Sell Stock III `*`
+* Minimum Path Sum
 
 ### Recursion
 * Pow(x, n)
