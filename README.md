@@ -55,6 +55,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Spiral Matrix `*`
 * Spiral Matrix II
 * Search a 2D Matrix
+* Single Number
 
 ### Dynamic Programming
 * Climbing Stairs
@@ -70,6 +71,8 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Pow(x, n)
 * Gray Code
 * Roman to Integer
+* Integer to Roman
+* Plus One
 
 ### Stacks
 * Valid Parentheses
@@ -78,7 +81,9 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 ### Strings
 * Longest Common Prefix
 * Longest Substring Without Repeating Characters
+* Length of Last Word
 
 ### Others
 * Reverse Integer
+* Palindrome Number
 * Container With Most Water
