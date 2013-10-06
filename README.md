@@ -56,6 +56,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Spiral Matrix II
 * Search a 2D Matrix
 * Single Number
+* Add Two Numbers
 
 ### Dynamic Programming
 * Climbing Stairs
@@ -73,6 +74,9 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Roman to Integer
 * Integer to Roman
 * Plus One
+* Generate Parentheses `*`
+* Count and Say
+* Letter Combinations of a Phone Number
 
 ### Stacks
 * Valid Parentheses
