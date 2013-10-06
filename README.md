@@ -27,6 +27,9 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Construct Binary Tree from Preorder and Inorder Traversal
 * Populating Next Right Pointers in Each Node `*`
 
+### Graphs
+* Word Ladder `*`
+
 ### Arrays, Lists
 * Remove Duplicates from Sorted Array
 * Remove Duplicates from Sorted Array II
