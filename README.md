@@ -87,6 +87,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Longest Common Prefix
 * Longest Substring Without Repeating Characters
 * Length of Last Word
+* ZigZag Conversion
 
 ### Others
 * Reverse Integer
