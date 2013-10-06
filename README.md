@@ -57,6 +57,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Search a 2D Matrix
 * Single Number
 * Add Two Numbers
+* Insert Interval
 
 ### Dynamic Programming
 * Climbing Stairs
