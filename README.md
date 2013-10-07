@@ -95,6 +95,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Longest Substring Without Repeating Characters
 * Length of Last Word
 * ZigZag Conversion
+* Add Binary
 
 ### Others
 * Reverse Integer
