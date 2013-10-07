@@ -61,6 +61,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Single Number
 * Add Two Numbers
 * Insert Interval
+* Merge Intervals
 * Reverse Nodes in k-Group
 
 ### Dynamic Programming
