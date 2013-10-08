@@ -86,6 +86,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Generate Parentheses `*`
 * Count and Say
 * Letter Combinations of a Phone Number
+* Restore IP Addresses
 
 ### Stacks
 * Valid Parentheses
