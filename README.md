@@ -69,6 +69,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Set Matrix Zeroes
 * Gas Station
 * Next Permutation
+* Sort Colors
 
 ### Dynamic Programming
 * Climbing Stairs
