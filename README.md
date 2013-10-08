@@ -63,6 +63,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Insert Interval
 * Merge Intervals
 * Reverse Nodes in k-Group
+* Copy List with Random Pointer `*`
 
 ### Dynamic Programming
 * Climbing Stairs
