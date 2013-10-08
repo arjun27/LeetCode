@@ -88,6 +88,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 ### Stacks
 * Valid Parentheses
 * Longest Valid Parentheses `*`
+* Largest Rectangle in Histogram `*`
 * Simplify Path
 
 ### Strings
