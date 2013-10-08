@@ -68,6 +68,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Copy List with Random Pointer `*`
 * Set Matrix Zeroes
 * Gas Station
+* Next Permutation
 
 ### Dynamic Programming
 * Climbing Stairs
