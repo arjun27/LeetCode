@@ -60,6 +60,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Spiral Matrix II
 * Search a 2D Matrix
 * Single Number
+* Single Number II `*` `bitwise`
 * Add Two Numbers
 * Insert Interval
 * Merge Intervals
