@@ -110,6 +110,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Add Binary
 * Interleaving String
 * Word Break
+* Anagrams
 
 ### Others
 * Reverse Integer
