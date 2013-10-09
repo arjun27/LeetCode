@@ -71,6 +71,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Next Permutation
 * Sort Colors
 * 3Sum `*`
+* 3Sum Closest `*`
 
 ### Dynamic Programming
 * Climbing Stairs
