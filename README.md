@@ -73,6 +73,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * 3Sum `*`
 * 3Sum Closest `*`
 * Surrounded Regions
+* Search for a Range
 
 ### Dynamic Programming
 * Climbing Stairs
