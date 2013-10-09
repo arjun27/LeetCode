@@ -70,6 +70,7 @@ Solutions to LeetCode problems. I've tried to compile a list and classify proble
 * Gas Station
 * Next Permutation
 * Sort Colors
+* 3Sum `*`
 
 ### Dynamic Programming
 * Climbing Stairs
